@@ -1,4 +1,3 @@
-# pub-repo
 Personal public repo to do test
 
 ## Legal Disclaimer and Trademark Notice
